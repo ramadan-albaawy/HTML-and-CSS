@@ -165,7 +165,7 @@ header .links .menu li:last-child:hover {
 
 /* start intro  */
 .landing {
-    background-image: url(/images/landing.jpg);   
+    background-image: url(../images/landing.jpg);   
     background-size: cover;
     height: calc(100vh - 68px);
 }
