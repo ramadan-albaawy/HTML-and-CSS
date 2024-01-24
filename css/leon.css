@@ -60,7 +60,7 @@ p{
 }
 @media (max-width:767px) {
     .heading-style {
-        font-size:50px;
+        font-size:70px;
    }
 }
 .heading-style + p {
