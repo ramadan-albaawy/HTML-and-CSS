@@ -58,6 +58,11 @@ p{
     letter-spacing: -2px;
     text-align: center;
 }
+@media (max-width:767px) {
+    .heading-style {
+        font-size:50px;
+   }
+}
 .heading-style + p {
     text-align: center;
     margin-top: -27px;
