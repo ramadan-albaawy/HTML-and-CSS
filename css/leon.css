@@ -142,6 +142,7 @@ header .links .menu li:not(:last-child) {
     border-bottom: 1px #ddd solid;
 }
 header .links .menu a {
+    display: block;
     text-decoration: none;
     color: black;
 }
