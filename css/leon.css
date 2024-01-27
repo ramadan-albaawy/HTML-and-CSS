@@ -135,13 +135,13 @@ header .links .menu::before {
     top: -40px;
 }
 header .links .menu li {
-    padding: 15px;
     transition: 0.5s;
 }
 header .links .menu li:not(:last-child) {
     border-bottom: 1px #ddd solid;
 }
 header .links .menu a {
+    padding: 15px;
     display: block;
     text-decoration: none;
     color: black;
